@@ -1,0 +1,28 @@
+{
+  "name": "graphql-api",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/racky7/graphql-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/racky7/graphql-api/issues"
+  },
+  "homepage": "https://github.com/racky7/graphql-api#readme",
+  "dependencies": {
+    "apollo-server": "^3.10.2",
+    "apollo-server-core": "^3.10.2",
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.3",
+    "mongoose": "^6.6.3",
+    "nodemon": "^2.0.20"
+  }
+}
